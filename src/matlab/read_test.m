@@ -12,7 +12,7 @@ ard=ard_init(com_p,115200);
 
 Fs=256; % set on ard code
 
-Twindow =2; % number of seconds to have on screen at once
+Twindow =1; % number of seconds to have on screen at once
 plotsize=Twindow*Fs;
 chn_num=2;
 
