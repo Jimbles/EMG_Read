@@ -1,5 +1,5 @@
 
-com_p='COM4';
+com_p='COM3';
 
 %sync sequence
 Syncbyte1=hex2dec('a5');
